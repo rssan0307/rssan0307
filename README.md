@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Raideep
-- 👀 I’m interested in becoming a programmer. (currently only  know python and still pretty bad at it :( )
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on idk
 - 📫 You can reach me by my email
