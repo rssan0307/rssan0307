@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Raideep
-- 🌱 I’m currently learning python
+- 🌱 I’m currently in a weird phase
 - 💞️ I’m looking to collaborate on idk
 - 📫 You can reach me by my email
 <!---
